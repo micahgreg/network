@@ -49,4 +49,3 @@ add_edge(4, 1, 5)
 print_graph()
 # Reminder: the second element of each list inside the dictionary
 # denotes the edge weight.
-print ("Internal representation: ", graph)
